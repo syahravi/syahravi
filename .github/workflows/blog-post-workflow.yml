@@ -11,7 +11,7 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
-     - uses: syahravi/blog-post-workflow@master
+     - uses: syahravi/blog-post-workflow@main
        with:
          # Replace this URL with your rss feed URL/s
          feed_list: "https://syahravi.netlify.app/index.xml"
