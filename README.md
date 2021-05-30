@@ -16,6 +16,9 @@
 # Weekly breakdown;>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       41 mins         ███████████████▓░░░░░░░░░   63.32 % 
+Markdown   14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.30 % 
+VimL       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Other      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 ```
 <!--END_SECTION:waka-->
