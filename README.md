@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @syahravi
-- 👀 I’m interested in MyLife
-- 🌱 I’m currently learning Overall
-- 💞️ I’m looking to collaborate on Device;>
+<h2 align="center">Hello! <a href="https://syahravi.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+---
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=syahravi.syahravi)
+<h4 align="center">Exist somewhere on >>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/syahravi/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://syahravi.my.id/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/syahraavi/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/syahraavi//)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+</h4>
+
+<b> Some Things about Me*</b>
+- 💬 Favourite Words\* Uhuk & yey
+- 🖥️ Coding Environment\* Dark + Uhuk
+- 🌱 I’m currently learning \*verything possible
+- 👀 Ask me about anything, I am happy to help
 - 📫 How to reach me syahravi.id@gmail.com
 
-# 📩 Latest Blog Posts
+# 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
 - [Membuat Github Project](https://syahravi.netlify.app/case-study/github-project/)
 - [Git: Cheat Sheet](https://syahravi.netlify.app/git-cheat-sheet/)
@@ -13,7 +25,7 @@
 - [Deploy Flask Apps to Heroku](https://syahravi.netlify.app/flask-heroku/deploy-flask-apps/)
 <!-- BLOG-POST-LIST:END -->
 
-# Weekly breakdown;>
+# This Week I Spent My Time \*n;>
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
