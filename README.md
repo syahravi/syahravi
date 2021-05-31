@@ -22,7 +22,7 @@
 - [Deploy Flask Apps to Heroku](https://syahravi.netlify.app/flask-heroku/deploy-flask-apps/)
 <!-- BLOG-POST-LIST:END -->
 
-## This Week I Spent My Time \*n;>
+## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
 YAML       41 mins         ███████████████▓░░░░░░░░░   63.32 % 
