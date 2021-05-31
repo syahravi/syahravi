@@ -16,7 +16,7 @@
 - 👀 Ask me about anything, I am happy to help
 - 📫 How to reach me syahravi.id@gmail.com
 
-# 📝 Check out my latest articles!
+## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
 - [Membuat Github Project](https://syahravi.netlify.app/case-study/github-project/)
 - [Git: Cheat Sheet](https://syahravi.netlify.app/git-cheat-sheet/)
@@ -25,7 +25,7 @@
 - [Deploy Flask Apps to Heroku](https://syahravi.netlify.app/flask-heroku/deploy-flask-apps/)
 <!-- BLOG-POST-LIST:END -->
 
-# This Week I Spent My Time \*n;>
+## This Week I Spent My Time \*n;>
 <!--START_SECTION:waka-->
 ```text
 YAML       41 mins         ███████████████▓░░░░░░░░░   63.32 % 
@@ -34,3 +34,6 @@ VimL       6 mins          ██▒░░░░░░░░░░░░░░�
 Other      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 ```
 <!--END_SECTION:waka-->
+
+## Random Stats
+[![syahravi's github stats](https://github-readme-stats.vercel.app/api?username=syahravi&show_icons=true&theme=synthwave)](https://github.com/syahravi/)
