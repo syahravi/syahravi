@@ -1,4 +1,4 @@
-<h2 align="center">Hello! I am <a href="https://syahravi.netlify.app" target="_blank">Syahravi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">Hello! I'm <a href="https://syahravi.netlify.app" target="_blank">Syahravi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=syahravi.syahravi)
 
@@ -10,10 +10,9 @@
 - 📫 How to reach me syahravi.id@gmail.com
 - 👨‍💻 Exist somewhere on >>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/syahravi/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://syahravi.my.id/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/syahraavi/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/syahraavi//)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi)
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
 - [Membuat Github Project](https://syahravi.netlify.app/case-study/github-project/)
