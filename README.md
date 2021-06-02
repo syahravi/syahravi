@@ -15,11 +15,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi)
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
-- [Membuat Github Project](https://syahravi.my.id/github-project/)
-- [Git: Cheat Sheet](https://syahravi.my.id/git-cheat-sheet/)
-- [Konfigurasi Sensitif pada Flask](https://syahravi.my.id/konfigurasi-sensitif-flask/)
-- [Flask Heroku Workflow](https://syahravi.my.id/heroku-workflow/)
-- [Deploy Flask Apps to Heroku](https://syahravi.my.id/deploy-flask-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week,, I spent my time \*n;>
