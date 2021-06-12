@@ -15,11 +15,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi)
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
-- [Membuat Github Project](https://www.syahravi.my.id/github-project/)
-- [Git: Cheat Sheet](https://www.syahravi.my.id/git-cheat-sheet/)
+- [Python: Install PIP - PyPI](https://www.syahravi.my.id/python-install-pip/)
+- [Python: Eksekusi Kode](https://www.syahravi.my.id/python-code/)
+- [Python: User Input](https://www.syahravi.my.id/python-user-input/)
+- [Python: Virtual Environments](https://www.syahravi.my.id/python-virtual-env/)
 - [Konfigurasi Sensitif pada Flask](https://www.syahravi.my.id/flask-konfigurasi-sensitif/)
-- [Flask Heroku Workflow](https://www.syahravi.my.id/heroku-workflow/)
-- [Deploy Flask Apps in Heroku](https://www.syahravi.my.id/deploy-flask-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week,, I spent my time \*n;>
