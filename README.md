@@ -15,11 +15,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi)
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
+- [Cpp: Program Structure](https://www.syahravi.my.id/cpp-program-structure/)
+- [Cpp: Introduction](https://www.syahravi.my.id/cpp/)
 - [Python: Operator Penugasan](https://www.syahravi.my.id/python-assignment/)
 - [Python: Operator Aritmatika](https://www.syahravi.my.id/python-arithmetic/)
 - [Python: GUI Apps dengan Tkinter](https://www.syahravi.my.id/python-tkinter/)
-- [Python: Calendar](https://www.syahravi.my.id/python-calendar/)
-- [Cmus (C* Music Player): Library, Track](https://www.syahravi.my.id/cmus-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week,, I spent my time \*n;>
