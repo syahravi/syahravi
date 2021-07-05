@@ -16,9 +16,9 @@
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
 - [HTML: Syntax](https://www.syahravi.my.id/html/)
-- [Cpp: Program Pertama Kamu!](https://www.syahravi.my.id/cpp-first-program/)
-- [Cpp: Struktur Program](https://www.syahravi.my.id/cpp-program-structure/)
-- [Cpp: Introduction](https://www.syahravi.my.id/cpp/)
+- [C++: Program Pertama Kamu!](https://www.syahravi.my.id/cpp-first-program/)
+- [C++: Struktur Program](https://www.syahravi.my.id/cpp-program-structure/)
+- [C++: Introduction](https://www.syahravi.my.id/cpp/)
 - [Python: Operator Penugasan](https://www.syahravi.my.id/python-assignment/)
 <!-- BLOG-POST-LIST:END -->
 
