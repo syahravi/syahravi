@@ -16,10 +16,10 @@
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
 - [Harvest Moon: Back to Nature](https://www.syahravi.my.id/harvest-moon-btn/)
+- [HTML: Block and Inline](https://www.syahravi.my.id/html-block-inline/)
 - [HTML: Syntax](https://www.syahravi.my.id/html-syntax/)
+- [HTML: Introduction](https://www.syahravi.my.id/html/)
 - [C++: Program Pertama Kamu!](https://www.syahravi.my.id/cpp-first-program/)
-- [C++: Struktur Program](https://www.syahravi.my.id/cpp-program-structure/)
-- [C++: Introduction](https://www.syahravi.my.id/cpp/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week,, I spent my time \*n;>
