@@ -3,8 +3,8 @@
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=syahravi.syahravi)
 
 <b> Some Things about Me*</b>
-- 💬 Favourite Words\* Uhuk; yey
-- 🖥️ Coding Environment\* Dark + Uhuk + yey
+- 💬 Favourite Words\* Uhuk; yey;>
+- 🖥️ Coding Environment\* Dark + uhuk + yey;>
 - 🌱 I’m currently learning \*verything possible
 - 👀 Ask me about anything, I am happy to help
 - 📫 How to reach me syahravi.id@gmail.com
