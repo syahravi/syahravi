@@ -15,11 +15,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi)
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
+- [HTML: Block and Inline](https://syahravi.my.id/html-block-inline/)
 - [Digimon World 3 (PSX)](https://syahravi.my.id/digimon-world-3/)
 - [Cara Membuat Tulisan](https://syahravi.my.id/cara-membuat-tulisan/)
 - [Menggunakan Media Sosial](https://syahravi.my.id/menggunakan-medsos/)
 - [Castlevania: Symphony of the Night (PSX)](https://syahravi.my.id/castlevania-sotn/)
-- [Digimon: Digital Card Battle (PSX)](https://syahravi.my.id/digimon-dcb/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week,, I spent my time \*n;>
