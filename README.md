@@ -25,7 +25,9 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML       31 mins         █████████████░░░░░░░░░░░░   52.16 % 
+Other      27 mins         ███████████▒░░░░░░░░░░░░░   45.95 % 
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 <!--END_SECTION:waka-->
 
