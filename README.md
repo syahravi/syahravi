@@ -25,7 +25,7 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-Python     45 mins         ████████████████████████▓   98.01 % 
+Python     51 mins         ████████████████████████▒   96.82 % 
 ```
 <!--END_SECTION:waka-->
 
