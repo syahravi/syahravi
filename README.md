@@ -25,10 +25,9 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-Markdown   18 mins         ██████████▓░░░░░░░░░░░░░░   42.31 % 
-Python     15 mins         ████████▒░░░░░░░░░░░░░░░░   33.76 % 
-HTML       9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.03 % 
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Markdown   18 mins         ███████████░░░░░░░░░░░░░░   43.57 % 
+Python     15 mins         ████████▓░░░░░░░░░░░░░░░░   34.77 % 
+HTML       9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.66 % 
 ```
 <!--END_SECTION:waka-->
 
