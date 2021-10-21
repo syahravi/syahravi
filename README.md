@@ -25,8 +25,8 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-Python   37 mins         ████████████████░░░░░░░░░   64.58 % 
-XML      19 mins         ████████▓░░░░░░░░░░░░░░░░   34.62 % 
+Python   36 mins         ████████████████░░░░░░░░░   64.00 % 
+XML      19 mins         ████████▓░░░░░░░░░░░░░░░░   35.19 % 
 ```
 <!--END_SECTION:waka-->
 
