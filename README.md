@@ -25,7 +25,10 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   30 mins         ███████████▓░░░░░░░░░░░░░   46.81 % 
+HTML       21 mins         ████████▒░░░░░░░░░░░░░░░░   33.03 % 
+CSS        8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Other      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 ```
 <!--END_SECTION:waka-->
 
