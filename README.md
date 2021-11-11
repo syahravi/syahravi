@@ -25,9 +25,8 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-Python       26 mins         █████████████░░░░░░░░░░░░   51.81 % 
-C++          21 mins         ██████████▓░░░░░░░░░░░░░░   42.02 % 
-HTML         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+C++                 21 mins         ██████████████████████▓░░   90.03 % 
+Debian Sourcelist   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 ```
 <!--END_SECTION:waka-->
 
