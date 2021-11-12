@@ -25,8 +25,7 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-C++                 21 mins         ██████████████████████▓░░   90.03 % 
-Debian Sourcelist   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Debian Sourcelist   2 mins          ██████████████████████▒░░   89.62 % 
 ```
 <!--END_SECTION:waka-->
 
