@@ -25,7 +25,7 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-Debian Sourcelist   2 mins          ██████████████████████▒░░   89.62 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
