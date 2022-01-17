@@ -15,11 +15,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi)
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
-- [Syahravi.my.id](https://syahravi.my.id/syahravi.my.id/)
 - [Windows 10 For Free - Maybe](https://syahravi.my.id/windows-10-free/)
 - [Print Colored Text with Python](https://syahravi.my.id/colorama/)
 - [HTML: Block and Inline](https://syahravi.my.id/html-block-inline/)
 - [Digimon World 3 &lpar;PSX&rpar;](https://syahravi.my.id/digimon-world-3/)
+- [Cara Membuat Tulisan](https://syahravi.my.id/cara-membuat-tulisan/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week,, I spent my time \*n;>
