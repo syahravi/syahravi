@@ -25,10 +25,9 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-Markdown   5 hrs 47 mins   ███████████████████████░░   92.08 % 
-Other      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-HTML       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Bash       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Markdown   3 hrs 54 mins   ████████████████████████▒   97.18 % 
+Bash       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
 
