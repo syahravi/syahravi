@@ -25,13 +25,13 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-Total: 16 hrs 48 mins
+Total: 14 hrs 16 mins
 
-HTML       9 hrs 37 mins   █████████████▒░░░░░░░░░░░   52.99 % 
-Markdown   3 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.30 % 
-CSS        2 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Other      1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-YAML       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+HTML       7 hrs 5 mins    ███████████▒░░░░░░░░░░░░░   45.91 % 
+Markdown   3 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+CSS        2 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Other      1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+YAML       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 ```
 <!--END_SECTION:waka-->
 
