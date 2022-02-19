@@ -25,8 +25,6 @@
 ## This week,, I spent my time \*n;>
 <!--START_SECTION:waka-->
 ```text
-Total: 13 hrs 10 mins
-
 HTML       4 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.53 % 
 CSS        2 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.45 % 
 Markdown   2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.91 % 
