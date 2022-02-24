@@ -17,8 +17,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ukuran Gambar Channel Youtube](https://syahravi.my.id/ukuran-gambar-youtube/)
 - [Lihat Kalender di Terminal Linux](https://syahravi.my.id/lihat-kalender-di-terminal-linux/)
-- [Windows 10 For Free - Maybe](https://syahravi.my.id/windows-10-free/)
-- [Print Colored Text with Python](https://syahravi.my.id/colorama/)
+- [Gunakan Windows 10 secara Gratis](https://syahravi.my.id/windows-10-free/)
+- [Menampilkan Teks Berwarna pada Python](https://syahravi.my.id/colorama/)
 - [HTML: Block and Inline](https://syahravi.my.id/html-block-inline/)
 <!-- BLOG-POST-LIST:END -->
 
