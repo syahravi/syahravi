@@ -3,16 +3,16 @@
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=syahravi.syahravi)
 
 <b> Some Things about Me*</b>
-- 💬 Favourite Words >> Uhuk; yey.
-- 🖥️ Coding Environment\* Dark + uhuk + yey;>
-- 🌱 I’m currently learning \*verything possible
-- 👀 Ask me about anything, I am happy to help
-- 📫 How to reach me syahravi.id@gmail.com
-- 👨‍💻 Exist somewhere on\* 
+- 💬 Favourite Words » Uhuk; yey.
+- 🖥️ Coding Environment » Dark + uhuk + yey.
+- 🌱 I’m currently learning everything possible.
+- 👀 Ask me about anything, I am happy to help.
+- 📫 How to reach me cc@syahravi.my.id
+- 👨‍💻 Exist somewhere on »
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/syahravi/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/syahraavi/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/syahraavi)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/syahravi_id/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/syahravi.id)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi.id)
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
 - [Ukuran Gambar Channel Youtube](https://syahravi.my.id/ukuran-gambar-youtube/)
@@ -22,7 +22,7 @@
 - [HTML: Block and Inline](https://syahravi.my.id/html-block-inline/)
 <!-- BLOG-POST-LIST:END -->
 
-## This week,, I spent my time \*n;>
+## This week, I spent my time on
 <!--START_SECTION:waka-->
 ```text
 Markdown   3 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   43.03 % 
