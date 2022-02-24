@@ -1,9 +1,9 @@
-<h2 align="center">Hello! I'm <a href="https://syahravi.github.io" target="_blank">Syahravi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">Hello! I'm <a href="https://syahravi.my.id/" target="_blank">Syahravi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=syahravi.syahravi)
 
 <b> Some Things about Me*</b>
-- 💬 Favourite Words\* Uhuk; yey;>
+- 💬 Favourite Words >> Uhuk; yey.
 - 🖥️ Coding Environment\* Dark + uhuk + yey;>
 - 🌱 I’m currently learning \*verything possible
 - 👀 Ask me about anything, I am happy to help
