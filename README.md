@@ -15,11 +15,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi.id)
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
+- [Pengertian Memulai Pemrograman](https://syahravi.my.id/programming-intro/)
 - [Ukuran Gambar Channel Youtube](https://syahravi.my.id/ukuran-gambar-youtube/)
 - [Lihat Kalender di Terminal Linux](https://syahravi.my.id/lihat-kalender-di-terminal-linux/)
 - [Gunakan Windows 10 secara Gratis](https://syahravi.my.id/windows-10-free/)
 - [Menampilkan Teks Berwarna pada Python](https://syahravi.my.id/colorama/)
-- [HTML: Block and Inline](https://syahravi.my.id/html-block-inline/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week, I spent my time on
