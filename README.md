@@ -3,7 +3,7 @@
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=syahravi.syahravi)
 
 <b> Some Things about Me*</b>
-- 💬 Favourite Words » Uhuk; yey.
+- 💬 My++ » Uhuk; yey; luvluv.
 - 🖥️ Coding Environment » Dark + uhuk + yey.
 - 🌱 I’m currently learning everything possible.
 - 👀 Ask me about anything, I am happy to help.
