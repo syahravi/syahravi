@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2022 - To: 15 June 2022
+From: 09 June 2022 - To: 16 June 2022
 
 Java       1 hr 1 min      ████████████████████▒░░░░   81.69 %
 Markdown   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
