@@ -26,10 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 June 2022 - To: 22 June 2022
+From: 16 June 2022 - To: 23 June 2022
 
-HTML    2 mins          █████████████████████████   100.00 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+HTML   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
