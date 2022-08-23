@@ -17,9 +17,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Pemrograman Komputer](https://syahravi.my.id/programming-intro/)
 - [Ukuran Gambar Channel Youtube](https://syahravi.my.id/ukuran-gambar-youtube/)
+- [Ukuran Gambar Channel Youtube](https://syahravi.my.id/ukuran-gambar-youtube/)
 - [Lihat Kalender di Terminal Linux](https://syahravi.my.id/lihat-kalender-di-terminal-linux/)
 - [Gunakan Windows 10 secara Gratis](https://syahravi.my.id/windows-10-free/)
-- [Menampilkan Teks Berwarna pada Python](https://syahravi.my.id/colorama/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week, I spent my time on
