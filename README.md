@@ -26,13 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 20 November 2022
+From: 14 November 2022 - To: 21 November 2022
 
-Markdown     1 hr 24 mins    ███████████▒░░░░░░░░░░░░░   45.42 %
-Ruby         49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
-Vim Script   27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Bash         21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-Python       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Markdown   1 hr 12 mins    ███████████████▓░░░░░░░░░   62.55 %
+Ruby       22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
+Bash       21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
 ```
 
 <!--END_SECTION:waka-->
