@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-Python                34 mins         ████████████▒░░░░░░░░░░░░   48.67 %
-Sublime Text Config   26 mins         █████████▒░░░░░░░░░░░░░░░   37.62 %
-Other                 4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Python                32 mins         ███████████████████░░░░░░   75.91 %
+Sublime Text Config   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Markdown              4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
 ```
 
 <!--END_SECTION:waka-->
