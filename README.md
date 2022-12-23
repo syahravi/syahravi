@@ -26,10 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 22 December 2022
+From: 16 December 2022 - To: 23 December 2022
 
-Python     11 mins         ██████████████████▒░░░░░░   73.51 %
-Markdown   4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
+TOML         1 hr 37 mins    ███████████████▒░░░░░░░░░   60.89 %
+Markdown     59 mins         █████████▒░░░░░░░░░░░░░░░   36.75 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
