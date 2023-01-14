@@ -26,7 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 07 January 2023 - To: 14 January 2023
+
+CSS        22 mins         ██████████████▓░░░░░░░░░░   58.11 %
+HTML       15 mins         ██████████░░░░░░░░░░░░░░░   40.39 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
