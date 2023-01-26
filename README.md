@@ -15,11 +15,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi.id)
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana Cara Membeli dan Menggunakan e-Meterai [SAH]](https://syahravi.my.id/bagaimana-cara-membeli-dan-menggunakan-e-meterai/)
 - [Java : Mengenal dan Menggunakan Bahasa Pemrograman Java](https://syahravi.my.id/java-intro/)
 - [Ruby : Mengenal dan Menggunakan Bahasa Pemrograman Ruby](https://syahravi.my.id/ruby-intro/)
 - [Pembelajaran Hidup Terbaik](https://syahravi.my.id/pembelajaran-hidup-terbaik/)
 - [Cara Konversi JPG dan PNG ke WebP](https://syahravi.my.id/konversi-jpg-dan-png-ke-webp/)
-- [Cara Mencari dan Mengganti String di Beberapa File dengan Vim](https://syahravi.my.id/cara-mencari-dan-mengganti-string-di-beberapa-file-dengan-vim/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week, I spent my time on
