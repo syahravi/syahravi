@@ -15,11 +15,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi.id)
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
-- [Cara Install CyberPanel di Ubuntu 20.04 LTS](https://syahravi.my.id/cara-install-cyberpanel-di-ubuntu-20-04-lts/)
 - [Bagaimana Cara Membeli dan Menggunakan e-Meterai [SAH]](https://syahravi.my.id/bagaimana-cara-membeli-dan-menggunakan-e-meterai/)
 - [Java : Mengenal dan Menggunakan Bahasa Pemrograman Java](https://syahravi.my.id/java-intro/)
 - [Ruby : Mengenal dan Menggunakan Bahasa Pemrograman Ruby](https://syahravi.my.id/ruby-intro/)
 - [Pembelajaran Hidup Terbaik](https://syahravi.my.id/pembelajaran-hidup-terbaik/)
+- [Cara Konversi JPG dan PNG ke WebP](https://syahravi.my.id/konversi-jpg-dan-png-ke-webp/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week, I spent my time on
