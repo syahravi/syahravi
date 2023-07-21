@@ -25,15 +25,14 @@
 ## This week, I spent my time on
 <!--START_SECTION:waka-->
 
-```text
-From: 06 April 2023 - To: 13 April 2023
+```txt
+From: 13 July 2023 - To: 20 July 2023
 
-PHP              9 hrs 29 mins   ████████████▓░░░░░░░░░░░░   50.55 %
-Blade Template   8 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   45.58 %
-CSS              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-HTML             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Text             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Blade Template   11 hrs 59 mins  █████████████▒░░░░░░░░░░░   53.64 %
+PHP              5 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   23.87 %
+Bash             1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Other            1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+JSON             1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
