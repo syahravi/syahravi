@@ -26,13 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2023 - To: 01 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
-Blade Template   17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
-HTML             17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-Other            16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 %
-JavaScript       8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Bash             5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Blade Template   41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+Markdown         40 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+PHP              27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+JavaScript       25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+JSON             19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
 ```
 
 <!--END_SECTION:waka-->
