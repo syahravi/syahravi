@@ -26,13 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 22 October 2023 - To: 29 October 2023
 
-Blade Template   6 hrs 52 mins   █████████████░░░░░░░░░░░░   51.70 %
-PHP              4 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   36.54 %
-Markdown         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Other            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-YAML             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Blade Template   5 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   36.38 %
+Markdown         4 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.88 %
+TOML             2 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+HTML             50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Ezhil            38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
