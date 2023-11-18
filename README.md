@@ -2,17 +2,30 @@
 
 ### Glad to see you here!
 
-<b> Some Things about Me*</b>
-- 💬 My++ » Uhuk; yey; luvluv.
-- 🖥️ Coding Environment » Dark + uhuk + yey.
-- 🌱 I’m currently learning everything possible.
-- 👀 Ask me about anything, I am happy to help.
+<b> Some Things about Ravi</b>
+
+- 👨‍🎓 Passion for technology since elementary school, leading to pursuing a degree in Computer Engineering.
+- 👨🏽‍💻 Key decision to specialize as a software developer and embrace the role of a Full Stack Developer, focusing on Laravel.
+
+---
+- 🔥 Currently thriving in the role of a Full Stack Developer with expertise in Laravel, actively contributing to innovative software solutions.
+- 🎯 Successful completion of projects showcasing a blend of creativity and technical proficiency; notable examples include [ABhome MyTalent](https://mytalent.abhome.education/), Zakat Go, and UMKM Desa Cimulang.
+
+---
+- Future goals include continuous enhancement of Full Stack Developer skills, with a keen interest in emerging technologies such as Cloud Computing, Internet of Things, Artificial Intelligence.
+- Aspiring to achieve short-term objectives, such as obtaining additional certifications and attending industry conferences.
+- Long-term vision involves evolving into a leadership role, aspiring to become a recognized expert in the technical domain.
+
+---
+> Enthusiastic commitment to ongoing learning, professional growth, and making a positive impact through technology.
+
 - 📫 How to reach me cc@syahravi.my.id
 - 👨‍💻 Exist somewhere on »
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/syahravi/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/syahravi_id/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/syahravi.id)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi)
+
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
 - [Cara Menggunakan Tema Mac OS di Xubuntu OS](https://syahravi.my.id/menggunakan-tema-mac-os-di-xubuntu/)
