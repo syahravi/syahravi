@@ -4,20 +4,20 @@
 
 <b> Some Things about Ravi</b>
 
-- 👨‍🎓 Passion for technology since elementary school, leading to pursuing a degree in Computer Engineering.
-- 👨🏽‍💻 Key decision to specialize as a software developer and embrace the role of a Full Stack Developer, focusing on Laravel.
+- :mortar_board: Passion for technology since elementary school, leading to pursuing a degree in Computer Engineering.
+- :fireworks: Key decision to specialize as a software developer and embrace the role of a Full Stack Developer, focusing on Laravel.
 
 ---
 - 🔥 Currently thriving in the role of a Full Stack Developer with expertise in Laravel, actively contributing to innovative software solutions.
 - 🎯 Successful completion of projects showcasing a blend of creativity and technical proficiency; notable examples include [ABhome MyTalent](https://mytalent.abhome.education/), Zakat Go, and UMKM Desa Cimulang.
 
 ---
-- Future goals include continuous enhancement of Full Stack Developer skills, with a keen interest in emerging technologies such as Cloud Computing, Internet of Things, Artificial Intelligence.
-- Aspiring to achieve short-term objectives, such as obtaining additional certifications and attending industry conferences.
-- Long-term vision involves evolving into a leadership role, aspiring to become a recognized expert in the technical domain.
+- :crystal_ball: Future goals include continuous enhancement of Full Stack Developer skills, with a keen interest in emerging technologies such as Cloud Computing, Internet of Things, Artificial Intelligence.
+- :bookmark_tabs: Aspiring to achieve short-term objectives, such as obtaining additional certifications and attending industry conferences.
+- :yellow_heart: Long-term vision involves evolving into a leadership role, aspiring to become a recognized expert in the technical domain.
 
 ---
-> Enthusiastic commitment to ongoing learning, professional growth, and making a positive impact through technology.
+> :collision: Enthusiastic commitment to ongoing learning, professional growth, and making a positive impact through technology.
 
 - 📫 How to reach me cc@syahravi.my.id
 - 👨‍💻 Exist somewhere on »
