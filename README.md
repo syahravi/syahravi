@@ -26,10 +26,9 @@
 📫 How to reach me cc@syahravi.my.id
 
 👨‍💻 Exist somewhere on »
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/syahravi/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/syahravi_id/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/syahravi.id)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/syahravi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/syahravi/)
+[![Instagram Badge](https://img.shields.io/badge/-youtube-e4405f?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@syahravi)
 
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
