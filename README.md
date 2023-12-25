@@ -43,12 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2023 - To: 17 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
-Blade Template   2 hrs 46 mins   █████████████▓░░░░░░░░░░░   55.25 %
-PHP              1 hr 13 mins    ██████░░░░░░░░░░░░░░░░░░░   24.49 %
-Markdown         57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-TOML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Python       1 hr 30 mins    ███████████████░░░░░░░░░░   60.11 %
+Markdown     53 mins         ████████▓░░░░░░░░░░░░░░░░   35.23 %
+Text         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
