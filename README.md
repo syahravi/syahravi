@@ -43,9 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 31 December 2023 - To: 07 January 2024
 
-No activity tracked
+PHP              1 hr 31 mins    ██████████████▓░░░░░░░░░░   58.03 %
+Blade Template   1 hr 6 mins     ██████████▒░░░░░░░░░░░░░░   41.95 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
