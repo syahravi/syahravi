@@ -43,12 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
-Blade Template   3 hrs 34 mins   ████████████████▓░░░░░░░░   66.12 %
-PHP              1 hr 13 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
-Other            22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Markdown         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Blade Template   2 hrs 34 mins   ██████████████████░░░░░░░   71.83 %
+PHP              59 mins         ███████░░░░░░░░░░░░░░░░░░   27.39 %
+Markdown         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
