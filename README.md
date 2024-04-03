@@ -32,11 +32,11 @@
 
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
-- [Cara Menggunakan Tema Mac OS di Xubuntu OS](https://syahravi.my.id/menggunakan-tema-mac-os-di-xubuntu/)
-- [Cara Membeli dan Menggunakan e-Meterai [SAH]](https://syahravi.my.id/membeli-dan-menggunakan-e-meterai/)
-- [Java : Mengenal dan Menggunakan Bahasa Pemrograman Java](https://syahravi.my.id/java-intro/)
-- [Ruby : Mengenal dan Menggunakan Bahasa Pemrograman Ruby](https://syahravi.my.id/ruby-intro/)
-- [Pembelajaran Hidup Terbaik](https://syahravi.my.id/pembelajaran-hidup-terbaik/)
+- [Cara Menjadikan Web Browser Menjadi Catatan](https://syahravi.my.id/cara-menjadikan-web-browser-menjadi-catatan/)
+- [Cinta Tidak Harus Mati Dan 22 Refleksi Om @Newsplatter Lainnya - Henry Manampiring](https://syahravi.my.id/cinta-tidak-harus-mati/)
+- [Jadilah Wanita Yang Paling Bahagia - Dr. &#39;Aidh Al-Qarni](https://syahravi.my.id/jadilah-wanita-yang-paling-bahagia/)
+- [Mindful Learning: Membongkar 7 Mitos Pembelajaran yang Menyesatkan - Ellen J. Langer](https://syahravi.my.id/mindful-learning-membongkar-7-mitos-pembelajaran-yang-menyesatkan/)
+- [Modern Islamic Parenting - Dr. Hasan Syamsi](https://syahravi.my.id/modern-islamic-parenting/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week, I spent my time on
