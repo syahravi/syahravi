@@ -43,9 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 14 April 2024 - To: 21 April 2024
 
-No activity tracked
+Blade Template   9 mins          █████████████████▒░░░░░░░   68.88 %
+Bash             4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
