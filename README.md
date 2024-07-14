@@ -21,7 +21,7 @@
 :yellow_heart: Long-term vision involves evolving into a leadership role, aspiring to become a recognized expert in the technical domain.
 
 ---
-> :collision: Enthusiastic commitment to ongoing learning, professional growth, and making a positive impact through technology.
+> :collision: Enthusiastic commitment to ongoing learning, professional growth, and making a positive impact through technology and education.
 
 📫 How to reach me cc@syahravi.my.id
 
