@@ -43,12 +43,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2024 - To: 29 December 2024
+From: 29 December 2024 - To: 05 January 2025
 
-Blade Template   28 mins         █████████████████▓░░░░░░░   70.42 %
-PHP              11 mins         ███████░░░░░░░░░░░░░░░░░░   28.45 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
