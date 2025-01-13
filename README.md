@@ -43,9 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
-Markdown   2 mins          █████████████████████████   100.00 %
+Blade Template   4 hrs 28 mins   ████████████████▒░░░░░░░░   64.85 %
+PHP              1 hr 59 mins    ███████▒░░░░░░░░░░░░░░░░░   28.90 %
+Markdown         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
