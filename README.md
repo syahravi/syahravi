@@ -32,11 +32,11 @@
 
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
-- [Cara Menjadikan Web Browser Menjadi Catatan](https://syahravi.my.id/cara-menjadikan-web-browser-menjadi-catatan/)
-- [Projects](https://syahravi.my.id/project/)
+- [Cara Mengaktifkan Spell Check Bahasa Indonesia pada PhpStorm dan Produk Jetbrains IDE untuk Meningkatkan Produktivitas](https://syahravi.my.id/meningkatkan-produktivitas-spelling-bahasa-indonesia-pada-produk-jetbrains-ide/)
+- [Cara Menggunakan Web Browser sebagai Catatan](https://syahravi.my.id/cara-menggunakan-web-browser-sebagai-catatan/)
 - [Cara Menggunakan Tema Mac OS di Xubuntu OS](https://syahravi.my.id/menggunakan-tema-mac-os-di-xubuntu/)
-- [About Me](https://syahravi.my.id/about/)
-- [Contact](https://syahravi.my.id/contact/)
+- [Cara Membeli dan Menggunakan e-Meterai [SAH]](https://syahravi.my.id/membeli-dan-menggunakan-e-meterai/)
+- [Awards](https://syahravi.my.id/awards/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week, I spent my time on
