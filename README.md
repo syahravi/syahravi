@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2025 - To: 01 June 2025
+From: 01 June 2025 - To: 08 June 2025
 
-PHP              4 hrs 45 mins   █████████████▒░░░░░░░░░░░   53.17 %
-Blade Template   2 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
-Markdown         1 hr 50 mins    █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+PHP              6 hrs 21 mins   ██████████████████▒░░░░░░   73.55 %
+Blade Template   2 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   24.22 %
+Markdown         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
