@@ -36,7 +36,7 @@
 - [Cara Menggunakan Web Browser sebagai Catatan](https://syahravi.my.id/cara-menggunakan-web-browser-sebagai-catatan/)
 - [Cara Menggunakan Tema Mac OS di Xubuntu OS](https://syahravi.my.id/menggunakan-tema-mac-os-di-xubuntu/)
 - [Cara Membeli dan Menggunakan e-Meterai [SAH]](https://syahravi.my.id/membeli-dan-menggunakan-e-meterai/)
-- [Awards](https://syahravi.my.id/awards/)
+- [Pembelajaran Hidup Terbaik](https://syahravi.my.id/pembelajaran-hidup-terbaik/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week, I spent my time on
