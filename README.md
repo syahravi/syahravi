@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2025 - To: 22 June 2025
+From: 22 June 2025 - To: 29 June 2025
 
-PHP              11 hrs 14 mins  █████████▒░░░░░░░░░░░░░░░   36.81 %
-Blade Template   9 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   31.83 %
-Markdown         3 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-HTML             2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-TOML             49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+PHP                 1 hr 8 mins     ██████████████▓░░░░░░░░░░   59.32 %
+Blade Template      26 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
+YAML                7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Bash                5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Markdown            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
