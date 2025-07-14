@@ -32,11 +32,11 @@
 
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
+- [Motivasi &amp; Prinsip Bisnis Orang-Orang Sukses Oleh M Hariwijaya](https://syahravi.my.id/motivasi-dan-prinsip-bisnis-orang-orang-sukses/)
 - [Cara Mengaktifkan Spell Check Bahasa Indonesia pada PhpStorm dan Produk Jetbrains IDE untuk Meningkatkan Produktivitas](https://syahravi.my.id/meningkatkan-produktivitas-spelling-bahasa-indonesia-pada-produk-jetbrains-ide/)
 - [Cara Menggunakan Web Browser sebagai Catatan](https://syahravi.my.id/cara-menggunakan-web-browser-sebagai-catatan/)
 - [Cara Menggunakan Tema Mac OS di Xubuntu OS](https://syahravi.my.id/menggunakan-tema-mac-os-di-xubuntu/)
 - [Cara Membeli dan Menggunakan e-Meterai [SAH]](https://syahravi.my.id/membeli-dan-menggunakan-e-meterai/)
-- [Pembelajaran Hidup Terbaik](https://syahravi.my.id/pembelajaran-hidup-terbaik/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week, I spent my time on
