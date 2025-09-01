@@ -23,7 +23,7 @@
 ---
 > :collision: Enthusiastic commitment to ongoing learning, professional growth, and making a positive impact through technology and education.
 
-📫 How to reach me cc@syahravi.my.id
+📫 How to reach me halo@syahravi.my.id
 
 👨‍💻 Exist somewhere on »
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/syahravi.id)
