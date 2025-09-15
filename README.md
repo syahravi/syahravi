@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 07 September 2025 - To: 14 September 2025
 
-PHP              3 hrs 10 mins   ███████████████████▓░░░░░   78.68 %
-Blade Template   45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-.env file        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+PHP              3 hrs 38 mins   ███████████████████▒░░░░░   76.71 %
+Blade Template   42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Bash             17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Markdown         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
