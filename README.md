@@ -43,11 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-Markdown     23 mins         ███████████████████████▒░   93.79 %
-TypeScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Blade Template   1 hr            █████████████▓░░░░░░░░░░░   55.22 %
+Markdown         40 mins         █████████░░░░░░░░░░░░░░░░   36.52 %
+PHP              9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
