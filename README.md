@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 08 February 2026
+From: 08 February 2026 - To: 15 February 2026
 
-Astro            3 hrs 41 mins   ███████████▓░░░░░░░░░░░░░   46.02 %
-Blade Template   2 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.27 %
-Markdown         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-TOML             21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-HTML             17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Markdown         1 hr 38 mins    ██████████░░░░░░░░░░░░░░░   40.27 %
+Blade Template   1 hr 37 mins    ██████████░░░░░░░░░░░░░░░   39.70 %
+PHP              23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Astro            12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+JSON             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 ```
 
 <!--END_SECTION:waka-->
