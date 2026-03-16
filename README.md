@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2026 - To: 08 March 2026
+From: 08 March 2026 - To: 15 March 2026
 
-Blade Template   2 hrs 50 mins         █████████████████▓░░░░░░░   70.02 %
-PHP              55 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
-Markdown         17 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-CSS              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JSON             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Blade Template   1 hr 43 mins          █████████▓░░░░░░░░░░░░░░░   39.12 %
+Markdown         1 hr 32 mins          ████████▓░░░░░░░░░░░░░░░░   35.05 %
+PHP              1 hr 2 mins           ██████░░░░░░░░░░░░░░░░░░░   23.76 %
+JSON             3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TypeScript       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
