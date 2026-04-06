@@ -43,10 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2026 - To: 29 March 2026
+From: 29 March 2026 - To: 05 April 2026
 
-SSH Config   10 mins               ████████████████████████░   96.46 %
-Markdown     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Markdown         3 hrs 7 mins          ██████████░░░░░░░░░░░░░░░   40.31 %
+Other            1 hr 18 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+JSON             38 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Blade Template   29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Git Config       27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 ```
 
 <!--END_SECTION:waka-->
