@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 19 April 2026 - To: 26 April 2026
 
-Astro            3 hrs 23 mins         ███████░░░░░░░░░░░░░░░░░░   27.50 %
-Other            3 hrs 1 min           ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-Markdown         2 hrs 40 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
-JSON             1 hr 4 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-PHP              41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Blade Template   2 hrs 38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.70 %
+PHP              1 hr 36 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+Other            1 hr 24 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+Markdown         1 hr 19 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+Astro            52 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
 ```
 
 <!--END_SECTION:waka-->
