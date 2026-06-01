@@ -43,11 +43,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2026 - To: 24 May 2026
+From: 24 May 2026 - To: 31 May 2026
 
-Blade Template   48 mins               ██████████░░░░░░░░░░░░░░░   39.43 %
-Markdown         42 mins               ████████▓░░░░░░░░░░░░░░░░   34.12 %
-PHP              32 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
