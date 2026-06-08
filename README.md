@@ -43,9 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2026 - To: 31 May 2026
+From: 31 May 2026 - To: 07 June 2026
 
-No activity tracked
+PHP              1 hr 40 mins          █████████▓░░░░░░░░░░░░░░░   39.28 %
+Markdown         1 hr 29 mins          ████████▓░░░░░░░░░░░░░░░░   34.90 %
+JSON             33 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Blade Template   26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+Astro            4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
