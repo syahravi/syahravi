@@ -11,7 +11,7 @@
 ---
 🔥 Currently thriving in the role of a Full Stack Developer with expertise in Laravel, actively contributing to innovative software solutions.
 
-🎯 Successful completion of projects showcasing a blend of creativity and technical proficiency; notable examples include [ABhome MyTalent](https://mytalent.abhome.education/), Zakat Go, and UMKM Desa Cimulang.
+🎯 Successful completion of projects showcasing a blend of creativity and technical proficiency; notable examples include [ABhome MyTalent](https://mytalent.abhome.education/), ABhome Elearning, ABhome Admission, Zakat Go, and UMKM Desa Cimulang.
 
 ---
 :crystal_ball: Future goals include continuous enhancement of Full Stack Developer skills, with a keen interest in emerging technologies such as Cloud Computing, Internet of Things, Artificial Intelligence.
