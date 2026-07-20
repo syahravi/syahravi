@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2026 - To: 12 July 2026
+From: 12 July 2026 - To: 19 July 2026
 
-Markdown         3 hrs 41 mins         ███████████████▓░░░░░░░░░   63.06 %
-PHP              1 hr 4 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-Blade Template   39 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-JSON             8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Git Config       7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Markdown         5 hrs 2 mins          █████████▒░░░░░░░░░░░░░░░   37.76 %
+PHP              3 hrs 47 mins         ███████░░░░░░░░░░░░░░░░░░   28.33 %
+Blade Template   2 hrs 42 mins         █████░░░░░░░░░░░░░░░░░░░░   20.29 %
+Other            56 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+JSON             35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->
