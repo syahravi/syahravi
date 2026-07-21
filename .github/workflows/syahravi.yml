@@ -10,8 +10,10 @@ jobs:
    name: Update this repo's README with latest blog.
    runs-on: ubuntu-latest
    steps:
-     - uses: actions/checkout@v2
-     - uses: gautamkrishnar/blog-post-workflow@master
-       with:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
          # Replace this URL with your rss feed URL/s
          feed_list: "https://syahravi.my.id/index.xml"
