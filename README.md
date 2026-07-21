@@ -53,5 +53,3 @@ JSON             35 mins               █░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
----
-[![syahravi's github stats](https://github-readme-stats.vercel.app/api?username=syahravi&show_icons=true&theme=synthwave)](https://github.com/syahravi/)
