@@ -32,11 +32,11 @@
 
 ## 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
-- [Legal Gratis ChatGPT 3 Bulan Lewat Shopee VIP](https://syahravi.my.id/legal-gratis-chatgpt-3-bulan/)
-- [Kisah Michel Lutito](https://syahravi.my.id/kisah-michel-lutito/)
-- [Motivasi &amp; Prinsip Bisnis Orang-Orang Sukses Oleh M Hariwijaya](https://syahravi.my.id/motivasi-dan-prinsip-bisnis-orang-orang-sukses/)
-- [Cara Mengaktifkan Spell Check Bahasa Indonesia pada PhpStorm dan Produk Jetbrains IDE untuk Meningkatkan Produktivitas](https://syahravi.my.id/meningkatkan-produktivitas-spelling-bahasa-indonesia-pada-produk-jetbrains-ide/)
-- [Cara Menggunakan Web Browser sebagai Catatan](https://syahravi.my.id/cara-menggunakan-web-browser-sebagai-catatan/)
+- [5 Jenis Koperasi, Dijelasin Pakai Bahasa Bayi](https://syahravi.my.id/posts/5-jenis-koperasi-bahasa-bayi/)
+- [Cara Menggunakan SSH Key untuk Git di GitHub](https://syahravi.my.id/posts/cara-menggunakan-ssh-git/)
+- [Trik Agar Video Status WhatsApp Tidak Buram &lpar;Tanpa Aplikasi Tambahan&rpar;](https://syahravi.my.id/posts/video-status-wa-tidak-buram/)
+- [Pidato Presiden Prabowo di PENAS Petani Nelayan XVII Gorontalo 2026](https://syahravi.my.id/posts/prabowo-pidato-penas-petani-nelayan-2026/)
+- [Collection vs Tag di Raindrop.io: Panduan Penamaan agar Bookmark Tidak Berantakan](https://syahravi.my.id/posts/raindrop-collection-vs-tag/)
 <!-- BLOG-POST-LIST:END -->
 
 ## This week, I spent my time on
