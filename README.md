@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2026 - To: 09 August 2026
+From: 09 August 2026 - To: 16 August 2026
 
-Bash         14 mins               ██████████████▒░░░░░░░░░░   57.44 %
-Astro        6 mins                ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-Other        2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-JavaScript   1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Astro        4 hrs 15 mins         █████████████░░░░░░░░░░░░   51.39 %
+Markdown     1 hr 53 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
+JSON         42 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+CSS          32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+TypeScript   24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->
